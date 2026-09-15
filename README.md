@@ -2,7 +2,7 @@
 
 # Alireza Najafi Motiei
 
-**Senior Electrical Engineering Student @ University of Tehran**  
+**Electrical Engineer & Researcher @ University of Tehran**  
 *Focusing on Bioelectronics, Biomedical Systems, and Deep Generative Learning*
 
 [![Email](https://img.shields.io/badge/Email-alirezanmotiei%40gmail.com-003366?style=flat&logo=gmail&logoColor=white)](mailto:alirezanmotiei@gmail.com)
@@ -16,7 +16,7 @@
 
 ### 🧬 About & Research Statement
 
-I am a senior undergraduate in Electrical Engineering at the **University of Tehran** (graduating September 2026), ranked **11th out of 120** in my cohort with a **3.89 / 4.00 (18.28 / 20)** GPA. 
+I am an Electrical Engineering graduate and researcher from the **University of Tehran**, ranked **11th out of 120** in my cohort with a **3.89 / 4.00 (18.28 / 20)** GPA. 
 
 My research lies at the intersection of **hardware bioelectronics** and **computational intelligence**:
 1. **Bio-Signal Instrumentation & Microfluidics**: Designing high-frequency analog/digital circuitry (50 kHz – 600 kHz) and microfluidic devices to administer alternating electric fields (Tumor Treating Fields - TTFields) for targeted cancer cell therapeutics.
@@ -26,7 +26,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 
 ### 🔬 Active Research Appointments
 
-* **Undergraduate Researcher**, [Nano Bioelectronics Laboratory (NBEL)](https://ece.ut.ac.ir/en), University of Tehran  
+* **Researcher**, [Nano Bioelectronics Laboratory (NBEL)](https://ece.ut.ac.ir/en), University of Tehran  
   *Supervisor: Dr. Mohammad Abdolahad* · *(June 2024 – Present)*
   * Investigating electroporation and Tumor Treating Fields (TTFields) modalities for microfluidic cancer cell therapeutics.
   * Designing precision high-frequency signal generator hardware (STM32 + AD9833 + high-speed/high-current analog driving stages) for microfluidic PDMS chips with gold interdigitated electrode (IDE) arrays.
@@ -56,7 +56,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 ### 🎓 Education & Academic Honors
 
 * **University of Tehran**, Tehran, Iran  
-  *Bachelor of Science in Electrical Engineering* · *(Expected September 2026)*
+  *Bachelor of Science in Electrical Engineering* · *(September 2026)*
   * **Cumulative GPA:** 18.28 / 20.00 (**3.89 / 4.00**, converted per official institutional non-linear scale)
   * **Cohort Standing:** Ranked **11th out of 120** students in the Electrical Engineering department
   * **National University Entrance Exam (Konkur):** Ranked **293rd out of ~165,000 candidates (Top 0.15%)** nationwide in Mathematics & Physics (June 2021).
@@ -79,7 +79,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 
 ### 🇮🇷 معرفی و مشخصات آکادمیک
 
-علیرضا نجفی مطیعی، دانشجوی سال آخر کارشناسی مهندسی برق در **دانشگاه تهران** (رتبه ۲۹۳ کنکور سراسری، معدل ۱۸.۲۸، رتبه ۱۱ دانشکده). زمینه پژوهشی و تخصصی من در مرز مشترک **طراحی سیستم‌های سخت‌افزاری بیوالکترونیک** (ژنراتورهای فرکانس بالا، چیپ‌های میکروفلوئیدیک و اعمال میدان‌های الکتریکی نابودکننده تومور در آزمایشگاه NBEL) و **مدل‌های هوش مصنوعی زایشی و یادگیری عمیق** (مدل‌های دیفیوژن، ترنسفورمرهای بینایی و بازنمایی داده‌های پزشکی) متمرکز است.
+علیرضا نجفی مطیعی، دانش‌آموخته و پژوهشگر مهندسی برق از **دانشگاه تهران** (رتبه ۲۹۳ کنکور سراسری، معدل ۱۸.۲۸، رتبه ۱۱ دانشکده). زمینه پژوهشی و تخصصی من در مرز مشترک **طراحی سیستم‌های سخت‌افزاری بیوالکترونیک** (ژنراتورهای فرکانس بالا، چیپ‌های میکروفلوئیدیک و اعمال میدان‌های الکتریکی نابودکننده تومور در آزمایشگاه NBEL) و **مدل‌های هوش مصنوعی زایشی و یادگیری عمیق** (مدل‌های دیفیوژن، ترنسفورمرهای بینایی و بازنمایی داده‌های پزشکی) متمرکز است.
 
 </div>
 
