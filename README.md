@@ -15,7 +15,7 @@
 
 ### 🧬 About & Research Statement
 
-I am an Electrical Engineering graduate and researcher from the **University of Tehran**, ranked **11th out of 120** in my cohort with a **3.89 / 4.00 (18.28 / 20)** GPA. 
+I am an Electrical Engineering graduate and researcher from the **University of Tehran**, ranked **11th out of 120** in my cohort with a **3.90 / 4.00 (18.32 / 20)** GPA. 
 
 My research lies at the intersection of **hardware bioelectronics** and **computational intelligence**:
 1. **Bio-Signal Instrumentation & Microfluidics**: Designing high-frequency analog/digital circuitry (50 kHz – 600 kHz) and microfluidic devices to administer alternating electric fields (Tumor Treating Fields - TTFields) for targeted cancer cell therapeutics.
@@ -57,7 +57,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 
 * **University of Tehran**, Tehran, Iran  
   *Bachelor of Science in Electrical Engineering* · *(September 2026)*
-  * **Cumulative GPA:** 18.28 / 20.00 (**3.89 / 4.00**, converted per official institutional non-linear scale)
+  * **Cumulative GPA:** 18.32 / 20.00 (**3.90 / 4.00**, converted per official institutional non-linear scale)
   * **Cohort Standing:** Ranked **11th out of 120** students in the Electrical Engineering department
   * **National University Entrance Exam (Konkur):** Ranked **293rd out of ~165,000 candidates (Top 0.15%)** nationwide in Mathematics & Physics (June 2021).
 
