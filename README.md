@@ -8,7 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-alirezanmotiei%40gmail.com-003366?style=flat&logo=gmail&logoColor=white)](mailto:alirezanmotiei@gmail.com)
 [![Institution](https://img.shields.io/badge/Institution-University%20of%20Tehran-003366.svg)](https://ut.ac.ir/en)
 [![GitHub](https://img.shields.io/badge/GitHub-alirezanmotiei-181717?style=flat&logo=github&logoColor=white)](https://github.com/alirezanmotiei)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alireza%20Najafi%20Motiei-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-najafi-motiei)
 
 </div>
 
