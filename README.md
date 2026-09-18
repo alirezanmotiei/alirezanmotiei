@@ -15,7 +15,7 @@
 
 ### 🧬 About & Research Statement
 
-I am an Electrical Engineering graduate and researcher from the **University of Tehran**, ranked **11th out of 120** in my cohort with a **3.90 / 4.00 (18.32 / 20)** GPA. 
+I am an Electrical Engineering graduate and researcher from the **University of Tehran**, ranked **11th out of 120** in my cohort with a **3.89 / 4.00 (18.32 / 20)** GPA. 
 
 My research lies at the intersection of **hardware bioelectronics** and **computational intelligence**:
 1. **Bio-Signal Instrumentation & Microfluidics**: Designing high-frequency analog/digital circuitry (100 kHz – 500 kHz) and microfluidic devices to administer alternating electric fields (Tumor Treating Fields - TTFields) for targeted cancer cell therapeutics.
@@ -47,7 +47,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 | Project | Description | Primary Stack | Technical Reports |
 | :--- | :--- | :--- | :--- |
 | **[Digital-Integrated-Circuits-VLSI-HSPICE](https://github.com/alirezanmotiei/Digital-Integrated-Circuits-VLSI-HSPICE)** | Full-custom CMOS VLSI design in HP/MOSIS 0.5µm SCMOS: VTC noise margins, thermal sweeps (0°C to 100°C), static CMOS vs DCVSL vs Pseudo-NMOS benchmarks, 6T SRAM SNM butterfly curves, and Tanner L-Edit silicon mask layouts. | `HSPICE` `Tanner L-Edit` `SCMOS` `LaTeX` | [46-Page Portfolio & IEEE Report](https://github.com/alirezanmotiei/Digital-Integrated-Circuits-VLSI-HSPICE) |
-| **[Biomedical-Instrumentation-and-Signal-Processing](https://github.com/alirezanmotiei/Biomedical-Instrumentation-and-Signal-Processing)** | Analog front-end (AFE) biopotential circuits in NI Multisim (ECG/EEG amplifiers, 50 Hz active Twin-T notch filter), AD8232 + Arduino real-time biopotential acquisition, and MATLAB VCG dipole & EEG sleep staging. | `MATLAB` `NI Multisim` `Arduino` `C++` `AD8232` | [4 Reports & IEEE LaTeX](https://github.com/alirezanmotiei/Biomedical-Instrumentation-and-Signal-Processing/tree/main/reports) |
+| **[Introduction-to-Biomedical-Engineering-IBME](https://github.com/alirezanmotiei/Introduction-to-Biomedical-Engineering-IBME)** | Analog front-end (AFE) biopotential circuits in NI Multisim (ECG/EEG amplifiers, 50 Hz active Twin-T notch filter), AD8232 + Arduino real-time biopotential acquisition, and biopotential telemetry. | `MATLAB` `NI Multisim` `Arduino` `C++` `AD8232` | [4 Reports & IEEE LaTeX](https://github.com/alirezanmotiei/Introduction-to-Biomedical-Engineering-IBME/tree/main/reports) |
 | **[Pipelined-ARM-Processor-Verilog](https://github.com/alirezanmotiei/Pipelined-ARM-Processor-Verilog)** | Synthesizable 32-bit 5-stage pipelined ARM processor (ARMv4T subset) in Verilog HDL featuring dynamic operand forwarding, load-use hazard detection, and multi-cycle SRAM controller (Zynq-7000 FPGA @ 125 MHz). | `Verilog HDL` `Xilinx Vivado` `ModelSim` | [IEEE Report & Persian Report](https://github.com/alirezanmotiei/Pipelined-ARM-Processor-Verilog) |
 | **[Deep-Generative-Models](https://github.com/alirezanmotiei/Deep-Generative-Models)** | Complete graduate-level theoretical formulation, implementations, and empirical benchmarks for modern generative architectures: VAEs ($\\beta$-VAE, VampPrior), Masked Autoregressive Flows, CycleGAN with PatchGAN, Energy-Based Models, Score-Based Generative Models (SDEs), DDPM/DDIM, and DreamBooth. | `PyTorch` `Diffusers` `Torchvision` | [Reports & Figures Included](https://github.com/alirezanmotiei/Deep-Generative-Models) |
 | **[Neural-Networks-and-Deep-Learning](https://github.com/alirezanmotiei/Neural-Networks-and-Deep-Learning)** | Comprehensive graduate coursework repository covering Vision Transformers (ViT) on agricultural pathology, CamVid semantic segmentation (100 epochs, $8.2\\times$ MAC reduction), Domain-Adversarial Neural Networks (DANN), medical polyp EndoVAE, ICU telemetry forecasting, and adversarial ML. | `PyTorch` `TensorFlow` `Transformers` | [7 IEEEtran LaTeX Reports](https://github.com/alirezanmotiei/Neural-Networks-and-Deep-Learning) |
@@ -59,7 +59,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 
 * **University of Tehran**, Tehran, Iran  
   *Bachelor of Science in Electrical Engineering* · *(September 2026)*
-  * **Cumulative GPA:** 18.32 / 20.00 (**3.90 / 4.00**, converted per official institutional non-linear scale)
+  * **Cumulative GPA:** 18.32 / 20.00 (**3.89 / 4.00**, converted per official institutional non-linear scale)
   * **Cohort Standing:** Ranked **11th out of 120** students in the Electrical Engineering department
   * **National University Entrance Exam (Konkur):** Ranked **293rd out of ~165,000 candidates (Top 0.18%)** nationwide in Mathematics & Physics (June 2021).
 
