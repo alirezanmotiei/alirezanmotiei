@@ -46,6 +46,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 
 | Project | Description | Primary Stack | Technical Reports |
 | :--- | :--- | :--- | :--- |
+| **[Digital-Integrated-Circuits-VLSI-HSPICE](https://github.com/alirezanmotiei/Digital-Integrated-Circuits-VLSI-HSPICE)** | Full-custom CMOS VLSI design in HP/MOSIS 0.5µm SCMOS: VTC noise margins, thermal sweeps (0°C to 100°C), static CMOS vs DCVSL vs Pseudo-NMOS benchmarks, 6T SRAM SNM butterfly curves, and Tanner L-Edit silicon mask layouts. | `HSPICE` `Tanner L-Edit` `SCMOS` `LaTeX` | [46-Page Portfolio & IEEE Report](https://github.com/alirezanmotiei/Digital-Integrated-Circuits-VLSI-HSPICE) |
 | **[Biomedical-Instrumentation-and-Signal-Processing](https://github.com/alirezanmotiei/Biomedical-Instrumentation-and-Signal-Processing)** | Analog front-end (AFE) biopotential circuits in NI Multisim (ECG/EEG amplifiers, 50 Hz active Twin-T notch filter), AD8232 + Arduino real-time biopotential acquisition, and MATLAB VCG dipole & EEG sleep staging. | MATLAB NI Multisim Arduino C++ AD8232 | [4 Reports & IEEE LaTeX](https://github.com/alirezanmotiei/Biomedical-Instrumentation-and-Signal-Processing/tree/main/reports) |
 | **[Pipelined-ARM-Processor-Verilog](https://github.com/alirezanmotiei/Pipelined-ARM-Processor-Verilog)** | Synthesizable 32-bit 5-stage pipelined ARM processor (ARMv4T subset) in Verilog HDL featuring dynamic operand forwarding, load-use hazard detection, and multi-cycle SRAM controller (Zynq-7000 FPGA @ 125 MHz). | Verilog HDL Xilinx Vivado ModelSim | [IEEE Report & Persian Report](https://github.com/alirezanmotiei/Pipelined-ARM-Processor-Verilog) |
 | **[Deep-Generative-Models](https://github.com/alirezanmotiei/Deep-Generative-Models)** | Complete graduate-level theoretical formulation, implementations, and empirical benchmarks for modern generative architectures: VAEs ($\\beta$-VAE, VampPrior), Masked Autoregressive Flows, CycleGAN with PatchGAN, Energy-Based Models, Score-Based Generative Models (SDEs), DDPM/DDIM, and DreamBooth. | `PyTorch` `Diffusers` `Torchvision` | [Reports & Figures Included](https://github.com/alirezanmotiei/Deep-Generative-Models) |
@@ -80,7 +81,7 @@ My research lies at the intersection of **hardware bioelectronics** and **comput
 
 ### 🇮🇷 معرفی و مشخصات آکادمیک
 
-علیرضا نجفی مطیعی، دانش‌آموخته و پژوهشگر مهندسی برق از **دانشگاه تهران** (رتبه ۲۹۳ کنکور سراسری، معدل ۱۸.۲۸، رتبه ۱۱ دانشکده). زمینه پژوهشی و تخصصی من در مرز مشترک **طراحی سیستم‌های سخت‌افزاری بیوالکترونیک** (ژنراتورهای فرکانس بالا، چیپ‌های میکروفلوئیدیک و اعمال میدان‌های الکتریکی نابودکننده تومور در آزمایشگاه NBEL) و **مدل‌های هوش مصنوعی زایشی و یادگیری عمیق** (مدل‌های دیفیوژن، ترنسفورمرهای بینایی و بازنمایی داده‌های پزشکی) متمرکز است.
+علیرضا نجفی مطیعی، دانش‌آموخته و پژوهشگر مهندسی برق از **دانشگاه تهران** (رتبه ۲۹۳ کنکور سراسری، معدل ۱۸.۳۲، رتبه ۱۱ دانشکده). زمینه پژوهشی و تخصصی من در مرز مشترک **طراحی سیستم‌های سخت‌افزاری بیوالکترونیک** (ژنراتورهای فرکانس بالا، چیپ‌های میکروفلوئیدیک و اعمال میدان‌های الکتریکی نابودکننده تومور در آزمایشگاه NBEL) و **مدل‌های هوش مصنوعی زایشی و یادگیری عمیق** (مدل‌های دیفیوژن، ترنسفورمرهای بینایی و بازنمایی داده‌های پزشکی) متمرکز است.
 
 </div>
 
